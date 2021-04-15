@@ -9,5 +9,5 @@ kevinmukuna/kevinmukuna is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevinmukuna&show_icons=true&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinmukuna&repo=github-readme-stats)](https://github.com/kevinmukuna/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinmukuna&repo=project)](https://github.com/kevinmukuna/project)
 
