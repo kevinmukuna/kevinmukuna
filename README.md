@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinmukuna
 - 👀 I’m interested in ...java, python, c languages, networking and ethical hacking
-- 🌱 I love java so i tend to learn new tricks everyday in coding with java
+- 🌱 I love java 
 - 💞️ I’m looking to collaborate on anything that has to do with code
 - 📫 mukuna.kevin@gmail.com
 
